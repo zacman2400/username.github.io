@@ -1,6 +1,6 @@
 ## About
 
-My name is Zachary Miller, and I am a MD/PhD student at University of Wisconsin-Madison. I am broadly interested in the intersection between computer science and medicine. Currently, I spend most of my time developing and applying machine learning algorithms to address challenges in motion correction and image reconstruction in Magnetic Resonance Imaging. Outside of research, I teach students for the medical school board exams, try to expand my mathematical knowledge base, and spend time with my fiance'. If you want to get in touch: _zmiller5@wisc.edu_
+My name is Zachary Miller, and I am a MD/PhD student at University of Wisconsin-Madison. I am broadly interested in the intersection between computer science and medicine. Currently, I spend most of my time developing and applying machine learning algorithms to address challenges in motion correction and image reconstruction in medical imaging. Outside of research, I teach students for the medical school board exams, try to expand my mathematical knowledge base, and spend time with my fiance'. If you want to get in touch: _zmiller5@wisc.edu_
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
